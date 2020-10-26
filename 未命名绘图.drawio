@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T03:30:19.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xL-h0RHZ2V147qCcfDmi" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T03:40:22.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="-Qf711SfOzCto2N3DAj-" version="13.8.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="782" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -11,9 +11,9 @@
           <mxGeometry x="242" y="130" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4" value="查询当时记录的累计值" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="510" width="169.5" height="80" as="geometry" />
+          <mxGeometry x="240" y="550" width="169.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="派单如果是否可以取消&lt;br&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="6" value="派单状态是否是待派单&lt;br&gt;，审批异常，无法派单" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="230.5" y="401" width="179" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" target="3" edge="1">
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="391" y="469" width="40" height="26" as="geometry" />
+          <mxGeometry x="361" y="490" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontColor=#001933;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6" target="4" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
@@ -56,10 +56,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="13" value="重新计算累计值" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="640" width="159" height="80" as="geometry" />
+          <mxGeometry x="240.5" y="680" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="14" value="no" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="391" y="401" width="40" height="26" as="geometry" />
+          <mxGeometry x="449.5" y="401" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="4" target="13" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="22" value="对订单表进行作废处理，&lt;br&gt;逻辑删除" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="22" value="对批次订单表进行作废处理，&lt;br&gt;逻辑删除" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="920" width="159" height="90" as="geometry" />
         </mxCell>
         <mxCell id="23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.5;exitY=1;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="20" target="22" edge="1">
@@ -136,8 +136,8 @@
             <mxPoint x="320" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="51" value="抛出异常" style="shape=mxgraph.flowchart.paper_tape;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="388" width="150" height="81" as="geometry" />
+        <mxCell id="51" value="抛出异常（无法编辑）" style="shape=mxgraph.flowchart.paper_tape;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="400" width="150" height="81" as="geometry" />
         </mxCell>
         <mxCell id="6UmX7ZGdbkAbi5s6heES-56" value="查询本次订单后面&lt;br&gt;的所有订单" style="rhombus;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="237" y="290" width="166" height="70" as="geometry" />
