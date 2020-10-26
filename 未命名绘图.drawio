@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T03:23:36.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="9v6aHtmJlqU7JlxlltZO" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T03:29:46.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="VmJsnMHFtj4adeVuhVh2" version="13.8.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="782" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="240.5" y="510" width="169.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6" value="派单如果是否可以取消&lt;br&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230.5" y="400" width="179" height="57" as="geometry" />
+          <mxGeometry x="230.5" y="401" width="179" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -39,7 +39,7 @@
         <mxCell id="10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="6" edge="1">
           <mxGeometry x="381" y="28.5" width="100" height="100" as="geometry">
             <mxPoint x="750" y="447" as="sourcePoint" />
-            <mxPoint x="510" y="429" as="targetPoint" />
+            <mxPoint x="610" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="490" y="520" />
               <mxPoint x="545" y="400" />
@@ -59,7 +59,7 @@
           <mxGeometry x="240.5" y="640" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="14" value="no" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="391" y="388" width="40" height="26" as="geometry" />
+          <mxGeometry x="391" y="401" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="4" target="13" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
@@ -100,8 +100,8 @@
         <mxCell id="27" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="1158.5" width="40" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="28" value="派单账单状态未待派单" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="255" y="1210" width="130" height="100" as="geometry" />
+        <mxCell id="28" value="修改派单账单状态未待派单" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="1210" width="165" height="100" as="geometry" />
         </mxCell>
         <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.5;exitY=1;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="24" target="28" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="51" value="抛出异常" style="shape=mxgraph.flowchart.paper_tape;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="388" width="150" height="81" as="geometry" />
+          <mxGeometry x="620" y="388" width="150" height="81" as="geometry" />
         </mxCell>
         <mxCell id="6UmX7ZGdbkAbi5s6heES-56" value="查询本次订单后面&lt;br&gt;的所有订单" style="rhombus;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="237" y="290" width="166" height="70" as="geometry" />
@@ -151,8 +151,8 @@
             <mxPoint x="510" y="1108.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6UmX7ZGdbkAbi5s6heES-62" value="派单账单状态无法派单" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1070" width="141.25" height="78.5" as="geometry" />
+        <mxCell id="6UmX7ZGdbkAbi5s6heES-62" value="修改派单账单状态无法派单" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="514" y="1054.25" width="166" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
