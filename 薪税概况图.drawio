@@ -1,109 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T09:35:29.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="vDApQvZVkFPMxsoyY1nV" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T09:51:08.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="iTiARhlJNaic2yW6qYL4" version="21.6.2" type="github">
   <diagram name="第 1 页" id="hpLcnYdg8RqdJOMM9PPg">
     <mxGraphModel dx="1166" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-18" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="460" y="50" width="450" height="440" as="geometry" />
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-18" value="薪税模块组织" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="91" y="30" width="1150" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-22">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-23">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="crm合同选择" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-21">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
-            <mxGeometry x="165" y="150" width="120" height="70" as="geometry" />
+        <UserObject label="基础配置" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-21">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+            <mxGeometry x="489" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-22" value="最低工资标准" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-22" value="最低工资标准" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="10" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-23" value="地区残保金" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-23" value="地区残保金" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="120" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-24" value="服务网点" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-24" value="服务网点" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="230" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-24">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="100" as="sourcePoint" />
             <mxPoint x="200" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-26" value="税率表" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-26" value="税率表" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="340" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-26">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="100" as="sourcePoint" />
             <mxPoint x="340" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-28" value="工资模板" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-28" value="工资模板" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="450" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-28">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="100" as="sourcePoint" />
             <mxPoint x="480" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-30" value="基本减除费用" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-30" value="基本减除费用" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="560" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-30">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="100" as="sourcePoint" />
             <mxPoint x="600" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-54" value="员工合同类型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-54" value="员工合同类型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="680" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-54">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="110" as="sourcePoint" />
             <mxPoint x="290" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-56" value="免税费用" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-56" value="免税费用" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="810" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-56">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="110" as="sourcePoint" />
             <mxPoint x="730" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-58" value="市平基数" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-58" value="市平基数" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="920" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-58">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="110" as="sourcePoint" />
             <mxPoint x="860" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-60" value="残保金" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-60" value="残保金" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
           <mxGeometry x="1030" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-60">
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="110" as="sourcePoint" />
             <mxPoint x="970" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bybRMpTFj6ahb_3L9N7S-89" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-88" target="bybRMpTFj6ahb_3L9N7S-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="基础配置" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-88">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
-            <mxGeometry x="165" y="40" width="120" height="60" as="geometry" />
+        <UserObject label="在线增员" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-102">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+            <mxGeometry x="489" y="240" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
