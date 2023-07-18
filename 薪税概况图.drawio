@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T09:58:12.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="e9r7TBgmOPhZKjcf_F_E" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T09:59:23.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="C1-IwBbOW20dx557T12Q" version="21.6.2" type="github">
   <diagram name="第 1 页" id="hpLcnYdg8RqdJOMM9PPg">
     <mxGraphModel dx="1166" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bybRMpTFj6ahb_3L9N7S-18" value="薪税模块组织" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="91" y="30" width="1150" height="440" as="geometry" />
+          <mxGeometry x="70" y="20" width="1150" height="440" as="geometry" />
         </mxCell>
         <mxCell id="bybRMpTFj6ahb_3L9N7S-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-22">
           <mxGeometry relative="1" as="geometry" />
@@ -15,7 +15,7 @@
         </mxCell>
         <UserObject label="基础配置" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-21">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
-            <mxGeometry x="489" y="40" width="120" height="60" as="geometry" />
+            <mxGeometry x="39" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="bybRMpTFj6ahb_3L9N7S-22" value="最低工资标准" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
@@ -96,9 +96,9 @@
             <mxPoint x="970" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="在线增员" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-102">
+        <UserObject label="运营工作台" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-102">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
-            <mxGeometry x="489" y="240" width="120" height="60" as="geometry" />
+            <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
