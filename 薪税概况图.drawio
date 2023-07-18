@@ -1,9 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T09:06:20.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.6.2" etag="MQWOqZPRbUlTz1qAiGYA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T09:28:17.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="XiZkvSlJGXyp0yiFgunu" version="21.6.2" type="github">
   <diagram name="第 1 页" id="hpLcnYdg8RqdJOMM9PPg">
-    <mxGraphModel>
+    <mxGraphModel dx="1166" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-18" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="37" y="40" width="790" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="基础配置" treeRoot="1" id="bybRMpTFj6ahb_3L9N7S-21">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+            <mxGeometry x="290" y="50" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-22" value="最低工资标准" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-23" value="地区残保金" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry x="163" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-24" value="服务网点" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry x="300" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="100" as="sourcePoint" />
+            <mxPoint x="200" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-26" value="税率表" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry x="430" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="100" as="sourcePoint" />
+            <mxPoint x="340" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-28" value="工资模板" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry x="550" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="100" as="sourcePoint" />
+            <mxPoint x="480" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-30" value="基本减除费用" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry x="670" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="bybRMpTFj6ahb_3L9N7S-18" source="bybRMpTFj6ahb_3L9N7S-21" target="bybRMpTFj6ahb_3L9N7S-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="100" as="sourcePoint" />
+            <mxPoint x="600" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="bybRMpTFj6ahb_3L9N7S-33" source="bybRMpTFj6ahb_3L9N7S-30" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="130" as="sourcePoint" />
+            <mxPoint x="620" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bybRMpTFj6ahb_3L9N7S-33" value="工资模板" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="bybRMpTFj6ahb_3L9N7S-18">
+          <mxGeometry x="670" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
